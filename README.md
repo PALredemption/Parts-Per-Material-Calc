@@ -1,8 +1,7 @@
 # Parts-Per-Material-Calc
 A simple parts per material calculator using custom tkinter and HTML.
 
-Throughout this project, I learned how to use HTML. It was interesting to see how formatting a page works.
-This was my first time using customtkinter. I really like the flexability when using it.
+Throughout this project, I learned how to use HTML. Prior to this project, I had no idea you could generate an HTML page with Python. It was interesting to see how formatting a page and assigning variables to it works.
 
 Using this program is simple:
 - Input the dimensions of your material
